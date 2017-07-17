@@ -15,6 +15,8 @@ import kitchen from '../components/kitchen/kitchen.vue'
 import menage from '../components/menage/menage.vue'
 import homeclothes from '../components/homeclothes/homeclothes.vue'
 import live from '../components/live/live.vue'
+import channelsub from '../components/channelsub/channelsub.vue'
+import item from '../components/item/item.vue'
 
 Vue.use(Router)
 
@@ -28,13 +30,7 @@ export default new Router({
     },
     {
       path: '/home',
-      component: home,
-      children: [
-        {
-          path: '/newssss',
-          component: personal
-        }
-      ]
+      component: home
     },
     {
       path: '/allproducts',
@@ -93,6 +89,32 @@ export default new Router({
           component: live
         }
       ]
-    }
+    },
+    {
+      path: '/channelsub',
+      component: channelsub
+    },
+    {
+      path: '/item',
+      component: item,
+      children: [
+        {
+          path: '2001',
+          component: menage
+        },
+        {
+          path: '2101',
+          component: kitchen
+        },
+        {
+          path: '2201',
+          component: homeclothes
+        },
+        {
+          path: '2301',
+          component: live
+        }
+      ]
+    },
   ]
 })

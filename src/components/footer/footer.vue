@@ -11,7 +11,7 @@
       <div class="tab-item">
         <router-link to="/allproducts">
           <span class="product_ico ico_all"></span>
-          <span class="text">全部产品</span>
+          <span class="text">全部</span>
         </router-link>
       </div>
       <div class="tab-item">
@@ -34,7 +34,7 @@
       </div>
     </div>
     <keep-alive>
-      <router-view></router-view>
+      <router-view :products="products"></router-view>
     </keep-alive>
     <div class="logo-down" @click="show" v-show="isShow">
       <div class="logo-down-top">
@@ -50,9 +50,11 @@
 <script>
   import BackTop from 'iview/src/components/back-top';
   export default {
+    props: ['products'],
     data(){
        return{
-           isShow:true
+         isShow:true,
+
        }
     } ,
     methods: {

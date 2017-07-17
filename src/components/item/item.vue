@@ -120,7 +120,7 @@
         </div>
       </mt-tab-container-item>
       <mt-tab-container-item id="3">
-        <mt-cell v-for="n in 6" :title="'选项 ' + n" />
+        <mt-cell/>
       </mt-tab-container-item>
     </mt-tab-container>
   </div>

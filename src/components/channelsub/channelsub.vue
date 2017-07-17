@@ -3,18 +3,19 @@
     <header class="header" style="top: 0px;">
       <div  class="header-content">
         <p class="header-title">家务</p>
-        <router-link to="product">
+        <router-link to="/allproducts">
           <span class="household-ico"></span>
         </router-link>
       </div>
       <div class="household-header-bottom">
         <ul>
-          <li>新品</li>
-          <li>畅销</li>
-          <li>价格</li>
+          <li><a href="###">新品</a></li>
+          <li><a href="###">畅销</a></li>
+          <li><a href="###">价格</a></li>
         </ul>
       </div>
     </header>
+
     <div class="household-content">
       <div class="household-content-wrap">
         <div class="household-content-wrap-img">
@@ -109,51 +110,59 @@
         display inline-block
         background-image url("./household.png")
         background-repeat no-repeat
-        font-size 1.8rem
+        font-size 18px
         position absolute
         left  10px
-        top 0.7rem
+        top 7px
     .household-header-bottom
       ul
         display flex
-        padding .4rem 2%
+        padding 4px 2%
         border-bottom 1px solid #f2f2f2
         background-color white
         li
-          border-right: 1px solid #f2f2f2
           flex 1
-          text-align center
           background-color white
-          height 3rem
-          line-height 3rem
-          font-size 1.35rem
+          height 36px
+          font-size 13.5px
           color: #666
+          a
+            display inline-block
+            width 100%
+            height 17px
+            line-height 17px
+            margin-top 10px
+            text-align center
+            border-right: 1px solid #f2f2f2
   .household-content
-    width: 96%;
+    margin: 94px auto 48px;
+    width: 100%;
     border: 1px solid #ddd;
-    background-color #f2f2f2
+    background #f2f2f2
     .household-content-wrap
-      margin: 2rem auto 0;
+      margin 30px auto 0
+      background-color #f2f2f2
       .household-content-wrap-img
-        width 100%
+        width 96%
+        margin 0 auto
         img
           width 100%
       .household-content-wrap-text
         width 100%
         background-color white
         color #333
-        padding-bottom .3rem
+        padding-bottom 3px
         .household-content-wrap-text-top
           width: 94%
           overflow hidden
           margin 0 auto
           text-align left
-          font-size 1.35rem
+          font-size 13.5px
           color: #333
-          line-height 2.6rem
+          line-height 30px
           text-overflow ellipsis
           white-space nowrap
-          padding-top .5rem
+          padding-top 6px
         .household-content-wrap-text-bottom
           width 94%
           overflow hidden
@@ -162,16 +171,16 @@
             min-width: 68%;
             overflow: hidden;
             float: left;
-            line-height: 1.8rem;
-            margin-top: .2rem;
+            line-height: 20px;
+            margin-top: 3px;
             span
-              font-size 1.35rem
+              font-size 1.35px
           .household-content-wrap-text-bottom-right
             float: right;
             text-align: right;
             color: #999;
-            line-height: 2.6rem;
+            line-height: 30px;
             span
-              font-size: 1.35rem;
+              font-size: 13.5px;
 </style>
 

@@ -6,10 +6,10 @@
       <div class="fill2"></div>
       <ul class="life-goodsUl clearFix life-child-thank">
         <li>
-          <a href="#/channelsub/2860/2877">
+          <router-link to="/channelsub/2010/201001">
             <img src="http://i.lifevccdn.com/upload/AppIndexIcon/54079a754099447281e284d45a5c078b.jpg">
             <dl>家务工具</dl>
-          </a>
+          </router-link>
         </li>
         <li>
           <a href="#/channelsub/2860/2877">

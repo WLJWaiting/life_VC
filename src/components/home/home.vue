@@ -42,7 +42,7 @@
                src="http://i.lifevccdn.com/upload/combinationchart/9518bc17021a40d28bffa8eb521f6878_d1242x0.jpg"
                lazy="loaded" style="width: 100%; height: 150px;">
           <map data-v-46782024="" name="planetmap1" id="planetmap1">
-            <area data-v-46782024="" shape="rect" coords="0,1,375,148">
+            <area data-v-46782024="" shape="rect" coords="0,1,375,148" href="/#/stroll">
           </map>
         </div>
       </div>
@@ -56,15 +56,15 @@
                src="http://i.lifevccdn.com/upload/combinationchart/c8d8ca2a7c6b468f95faefd8eb3959c1_d1242x0.jpg"
                lazy="loaded" style="width: 100%; height: 925px;">
           <map data-v-46782024="" name="planetmap2" id="planetmap2">
-            <area data-v-46782024="" shape="rect" coords="0,64,375,231">
-            <area data-v-46782024="" shape="rect" coords="0,240,375,407">
-            <area data-v-46782024="" shape="rect" coords="0,407,375,573">
-            <area data-v-46782024="" shape="rect" coords="0,573,123,749">
-            <area data-v-46782024="" shape="rect" coords="123,573,251,749">
-            <area data-v-46782024="" shape="rect" coords="251,573,375,749">
-            <area data-v-46782024="" shape="rect" coords="0,749,123,925">
-            <area data-v-46782024="" shape="rect" coords="123,749,251,925">
-            <area data-v-46782024="" shape="rect" coords="251,749,375,925">
+            <area data-v-46782024="" shape="rect" coords="0,64,375,231" href="/#/allproducts">
+            <area data-v-46782024="" shape="rect" coords="0,240,375,407" href="/#/allproducts">
+            <area data-v-46782024="" shape="rect" coords="0,407,375,573" href="/#/allproducts">
+            <area data-v-46782024="" shape="rect" coords="0,573,123,749" href="/#/allproducts">
+            <area data-v-46782024="" shape="rect" coords="123,573,251,749" href="/#/allproducts">
+            <area data-v-46782024="" shape="rect" coords="251,573,375,749" href="/#/allproducts">
+            <area data-v-46782024="" shape="rect" coords="0,749,123,925" href="/#/allproducts">
+            <area data-v-46782024="" shape="rect" coords="123,749,251,925" href="/#/allproducts">
+            <area data-v-46782024="" shape="rect" coords="251,749,375,925" href="/#/allproducts">
           </map>
         </div>
       </div>
@@ -79,7 +79,7 @@
                src="http://i.lifevccdn.com/upload/combinationchart/7d75b0fe2e8244bdbad79f4b39f8b62f_d1242x0.jpg"
                lazy="loaded">
           <map data-v-46782024="" name="planetmap3" id="planetmap3">
-            <area data-v-46782024="" shape="rect" coords="0,26,371,235">
+            <area data-v-46782024="" shape="rect" coords="0,26,371,235" href="/#/allproducts">
           </map>
         </div>
       </div>
@@ -94,19 +94,52 @@
                src="http://i.lifevccdn.com/upload/combinationchart/3cea975b99f9458198e9ed706af9b391_d1242x0.jpg"
                lazy="loaded">
           <map data-v-46782024="" name="planetmap4" id="planetmap4">
-            <area data-v-46782024="" shape="rect" coords="3,46,86,158">
-            <area data-v-46782024="" shape="rect" coords="93,46,191,164">
-            <area data-v-46782024="" shape="rect" coords="191,46,281,164">
-            <area data-v-46782024="" shape="rect" coords="285,46,371,164">
-            <area data-v-46782024="" shape="rect" coords="3,170,90,294">
-            <area data-v-46782024="" shape="rect" coords="93,170,183,294">
-            <area data-v-46782024="" shape="rect" coords="187,170,281,294">
-            <area data-v-46782024="" shape="rect" coords="281,170,375,294">
+            <area data-v-46782024="" shape="rect" coords="3,46,86,158" href="/#/allproducts">
+            <area data-v-46782024="" shape="rect" coords="93,46,191,164" href="/#/allproducts">
+            <area data-v-46782024="" shape="rect" coords="191,46,281,164" href="/#/allproducts">
+            <area data-v-46782024="" shape="rect" coords="285,46,371,164" href="/#/allproducts">
+            <area data-v-46782024="" shape="rect" coords="3,170,90,294" href="/#/allproducts">
+            <area data-v-46782024="" shape="rect" coords="93,170,183,294" href="/#/allproducts">
+            <area data-v-46782024="" shape="rect" coords="187,170,281,294" href="/#/allproducts">
+            <area data-v-46782024="" shape="rect" coords="281,170,375,294" href="/#/allproducts">
           </map>
         </div>
       </div>
     </div>
-
+    <!--49元包一年-->
+    <div data-v-60df7298="" class="item-combo">
+      <div data-v-46782024="" data-v-60df7298="" title="组合图活动">
+        <div data-v-46782024="" class="combo-title"></div>
+        <div data-v-46782024="" class="img-wrap" style="height: 100px;">
+          <img data-v-46782024="" usemap="#planetmap5"
+               src="http://i.lifevccdn.com/upload/combinationchart/fdbd35036c1c485b975a85ff7572708b_d1242x0.jpg"
+               lazy="loaded" style="width: 100%; height: 100px;">
+          <map data-v-46782024="" name="planetmap5" id="planetmap5">
+            <area data-v-46782024="" shape="rect" coords="0,2,375,101" href="/#/home">
+          </map>
+        </div>
+      </div>
+    </div>
+    <!--家务-->
+    <div data-v-60df7298="" class="item-combo" href="/#/channel/2001">
+      <div data-v-46782024="" data-v-60df7298="" title="组合图活动">
+        <div data-v-46782024="" class="combo-title"></div>
+        <div data-v-46782024="" class="img-wrap" style="height: 689px;">
+          <img data-v-46782024="" usemap="#planetmap6"
+               src="http://i.lifevccdn.com/upload/combinationchart/fcd8f69dd1714b84961f0704430fe034_d1242x0.jpg"
+               lazy="loaded" style="width: 100%; height: 689px;">
+          <map data-v-46782024="" name="planetmap6" id="planetmap6">
+            <area data-v-46782024="" shape="rect" coords="0,0,375,151" href="/#/channel/2001">
+            <area data-v-46782024="" shape="rect" coords="3,158,168,330" href="/#/channel/2001">
+            <area data-v-46782024="" shape="rect" coords="187,158,367,330" href="/#/channel/2001">
+            <area data-v-46782024="" shape="rect" coords="3,337,180,509" href="/#/channel/2001">
+            <area data-v-46782024="" shape="rect" coords="183,337,367,509" href="/#/channel/2001">
+            <area data-v-46782024="" shape="rect" coords="3,516,180,682" href="/#/channel/2001">
+            <area data-v-46782024="" shape="rect" coords="187,516,367,675" href="/#/channel/2001">
+          </map>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 <script>
@@ -116,20 +149,23 @@
   Vue.component(Swipe.name, Swipe);
   Vue.component(SwipeItem.name, SwipeItem);
   export default {
-      components: {
-        "life-header": header,
-      }
+    components: {
+      "life-header": header,
+    }
   }
 </script>
 
 <style lang="stylus" rel="stylesheet/stylus">
-.br
-  height 96px
-.swipe
-  height 250px
-  width 100%
-  img
+  .br
+    height 96px
+
+  .swipe
+    height 250px
     width 100%
-.item-combo
-  margin-bottom 12px
+    img
+      width 100%
+
+  .item-combo
+    margin-bottom 12px
+
 </style>
