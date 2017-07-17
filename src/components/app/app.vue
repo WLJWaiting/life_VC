@@ -29,7 +29,6 @@
               console.log(error)
             })
         }, 1000)
-
       },
       components: {
         "life-footer": footer

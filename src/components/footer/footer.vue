@@ -53,8 +53,7 @@
     props: ['products'],
     data(){
        return{
-         isShow:true,
-
+         isShow:true
        }
     } ,
     methods: {

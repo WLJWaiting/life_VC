@@ -126,6 +126,7 @@
   </div>
 </div>
 </template>
+
 <script>
   import Vue from 'vue'
   import {Swipe, SwipeItem, Navbar, TabItem} from 'mint-ui';
